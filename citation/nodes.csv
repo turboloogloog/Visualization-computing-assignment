@@ -1,0 +1,1046 @@
+id,label
+10.1007/3-540-44541-2_11,2D-Structure Drawings of Similar Molecules
+10.1007/3-540-44541-2_12,Fast Layout Methods for Timetable Graphs
+10.1007/3-540-44541-2_13,An Algorithmic Framework for Visualizing Statecharts
+10.1007/3-540-44541-2_14,Visualization of the Autonomous Systems Interconnections with Hermes
+10.1007/3-540-44541-2_15,Drawing Hypergraphs in the Subset Standard (Short Demo Paper)
+10.1007/3-540-44541-2_16,Knowledge Discovery from Graphs
+10.1007/3-540-44541-2_17,A Multilevel Algorithm for Force-Directed Graph Drawing
+10.1007/3-540-44541-2_18,A Fast Multi-scale Method for Drawing Large Graphs
+10.1007/3-540-44541-2_10,How to Draw the Minimum Cuts of a Planar Graph
+10.1007/3-540-62495-3_60,A pairing technique for area-efficient orthogonal drawings (extended abstract)
+10.1007/3-540-62495-3_61,Experimental and theoretical results in interactive orthogonal graph drawing
+10.1007/3-540-62495-3_62,An interactive system for drawing graphs
+10.1007/3-540-62495-3_63,Automatic graph clustering (system demonstration)
+10.1007/3-540-62495-3_64,Qualitative visualization of processes: Attributed graph layout and focusing techniques
+10.1007/3-540-58950-3_387,Upward drawing on the plane grid using less ink
+10.1007/3-540-58950-3_388,Proximity drawability: A survey extended abstract
+10.1007/3-540-58950-3_385,Upward planarity testing of outerplanar dags (extended abstract)
+10.1007/3-540-58950-3_386,Optimal-area upward drawings of AVL trees
+10.1007/3-540-58950-3_389,Proximity constraints and representable trees (extended abstract)
+10.1007/3-540-58950-3_380,CG: A graph drawing system using graph-grammar parsing
+10.1007/3-540-58950-3_383,Molecular graph eigenvectors for molecular coordinates
+10.1007/3-540-58950-3_384,On the computational complexity of upward and rectilinear planarity testing
+10.1007/3-540-58950-3_381,A demonstration of interactive graph based visual language applications
+10.1007/3-540-58950-3_382,A simple algorithm for drawing large graphs on small screens
+10.1007/BFb0021808,Generalized fisheye views of graphs
+10.1007/3-540-58950-3_376,Redrawing a graph within a geometric tolerance
+10.1007/BFb0021807,New results on a visibility representation of graphs in 3D
+10.1007/3-540-58950-3_377,On the difficulty of embedding planar graphs with inaccuracies
+10.1007/3-540-58950-3_374,TOSCANA 〞 A graphical tool for analyzing and exploring data
+10.1007/BFb0021809,Drawing high degree graphs with low bend numbers
+10.1007/3-540-58950-3_375,Characterization and recognition of point-halfspace and related orders
+10.1007/BFb0021804,Vertex splitting and tension-free layout
+10.1007/BFb0021803,COMAIDE: Information visualization using cooperative 3D diagram layout
+10.1007/BFb0021806,Graph-Drawing contest report
+10.1007/3-540-58950-3_378,A system for drawing graphs with geometric symmetry
+10.1007/BFb0021805,Drawing stressed planar graphs in three dimensions
+10.1007/3-540-58950-3_379,Demonstration of the interactive graph visualization system da Vinci
+10.1007/BFb0021800,3D graph drawing with simulated annealing
+10.1007/BFb0021802,The strength of weak proximity (extended abstract)
+10.1007/BFb0021801,The botanical beauty of random binary trees
+10.1007/3-540-58950-3_372,Drawing telecommunication networks
+10.1007/3-540-58950-3_373,Reduction of visual complexity in dynamic graphs
+10.1007/3-540-58950-3_370,GraphEd: A graphical platform for the implementation of graph algorithms (extended abstract and demo)
+10.1007/3-540-58950-3_371,Graph layout through the VCG tool
+10.1007/BFb0021819,Layout algorithms of graph-like diagrams for GRADE windows graphic editors
+10.1007/3-540-58950-3_365,Graph-drawing contest report
+10.1007/BFb0021818,Constraint-based spring-model algorithm for graph layout
+10.1007/3-540-58950-3_366,Visibility graphs and oriented matroids (extended abstract)
+10.1007/3-540-58950-3_363,The polyhedral approach to the maximum planar subgraph problem: New chances for related problems
+10.1007/3-540-58950-3_364,"Crossing numbers of graphs, lower bound techniques and algorithms: A survey"
+10.1007/BFb0021815,On representations of some thickness-two graphs
+10.1007/3-540-58950-3_369,Directed VR-representable graphs have unbounded dimension
+10.1007/BFb0021814,Contact graphs of curves
+10.1007/BFb0021817,Exact and heuristic algorithms for 2-layer straightline crossing minimization
+10.1007/3-540-58950-3_367,Rectangle-visibility representations of bipartite graphs
+10.1007/BFb0021816,Drawing force-directed graphs using Optigraph
+10.1007/3-540-58950-3_368,On the number of directions in visibility representations of graphs (extended abstract)
+10.1007/BFb0021811,Upward drawings on planes and spheres
+10.1007/BFb0021810,The drawing of configurations
+10.1007/BFb0021813,Recognizing leveled-planar dags in linear time
+10.1007/BFb0021812,Grid embedding of 4-connected plane graphs
+10.1007/3-540-58950-3_361,Minimum-width grid drawings of plane graphs extend abstract
+10.1007/3-540-58950-3_362,"Regular orientations, arboricity, and augmentation"
+10.1007/3-540-58950-3_360,Regular edge labelings and drawings of planar graphs
+10.1007/3-540-58950-3_354,A flow approach to upward drawings of toroidal maps
+10.1007/BFb0021829,CLaX 〞 A visualized compiler
+10.1007/3-540-58950-3_355,Improved algorithms and bounds for orthogonal drawings
+10.1007/3-540-58950-3_352,3-D visualization of program information (extended abstract and system demonstration)
+10.1007/3-540-58950-3_353,3D layout of reachability graphs of communicating processes
+10.1007/BFb0021826,Automatic drawing of compound digraphs for a real-time power system simulator
+10.1007/3-540-58950-3_358,On drawing a graph convexly in the plane (extended abstract)
+10.1007/BFb0021825,Issues in interactive orthogonal graph drawing (preliminary version)
+10.1007/3-540-58950-3_359,On drawing angle graphs
+10.1007/BFb0021828,A fast heuristic for hierarchical Manhattan layout
+10.1007/3-540-58950-3_356,On bend-minimum orthogonal upward drawing of directed planar graphs
+10.1007/BFb0021827,Validating graph drawing aesthetics
+10.1007/3-540-58950-3_357,Grid layouts of block diagrams 〞 bounding the number of bends in each connection (extended abstract)
+10.1007/BFb0021822,Portable graph layout and editing
+10.1007/BFb0021821,How to draw outerplanar minimum weight triangulations
+10.1007/BFb0021824,Incremental layout in DynaDAG
+10.1007/BFb0021823,A parallel simulated annealing algorithm for generating 3D layouts of undirected graphs
+10.1007/3-540-58950-3_351,Three-dimensional graph drawing
+10.1007/BFb0021820,Grid intersection and box intersection graphs on surfaces
+10.1007/3-540-46648-7_23,On 3-Layer Crossings and Pseudo Arrangements
+10.1007/3-540-46648-7_24,Visualizing Algorithms for the Design and Analysis of Survivable Networks
+10.1007/3-540-46648-7_21,The Vertex-Exchange Graph: A New Concept for Multi-level Crossing Minimisation
+10.1007/3-540-46648-7_22,Using Sifting for k-Layer Straightline Crossing Minimization
+10.1007/3-540-46648-7_20,An Algorithm for Drawing Compound Graphs
+10.1007/3-540-46648-7_29,An Heuristic for Graph Symmetry Detection
+10.1007/BFb0021837,Swan: A data structure visualization system
+10.1007/3-540-46648-7_27,Straight-Line Drawings of Protein Interactions
+10.1007/BFb0021836,GOVE Grammar-Oriented Visualisation Environment
+10.1007/3-540-46648-7_28,Art of Drawing
+10.1007/3-540-46648-7_25,LayoutShow: A Signed Applet/Application for Graph Drawing and Experimentation
+10.1007/3-540-46648-7_26,Centrality in Policy Network Drawings
+10.1007/BFb0021833,Graph layout adjustment strategies
+10.1007/BFb0021832,TOSCANA management system for conceptual data
+10.1007/BFb0021835,Generating customized layouts
+10.1007/BFb0021834,A generic compound graph visualizer/manipulator: D-ABDUCTOR
+10.1007/BFb0021831,Directed graphs drawing by Clan-based decomposition
+10.1007/BFb0021830,Crossing numbers of meshes
+10.1007/978-3-642-11805-0_7,Planar Drawings of Higher-Genus Graphs
+10.1007/978-3-642-11805-0_8,Splitting Clusters to Get C-Planarity
+10.1007/978-3-642-11805-0_9,On the Characterization of Level Planar Trees by Minimal Patterns
+10.1007/978-3-642-11805-0_3,Drawing Hamiltonian Cycles with No Large Angles
+10.1007/3-540-46648-7_12,Drawing Planar Graphs with Circular Arcs
+10.1007/978-3-642-11805-0_4,"Area, Curve Complexity, and Crossing Resolution of Non-planar Graph Drawings"
+10.1007/3-540-46648-7_13,Drawing Graphs in the Hyperbolic Plane
+10.1007/978-3-642-11805-0_5,On the Perspectives Opened by Right Angle Crossing Drawings
+10.1007/3-540-46648-7_10,Graph Clustering Using Distance-k Cliques
+10.1007/978-3-642-11805-0_6,Drawing 3-Polytopes with Good Vertex Resolution
+10.1007/3-540-46648-7_11,A Framework for Circular Drawings of Networks
+10.1007/978-3-642-11805-0_1,Why Are String Graphs So Beautiful?
+10.1007/978-3-642-11805-0_2,The Art of Cheating When Drawing a Graph
+10.1007/3-540-46648-7_18,The Constrained Crossing Minimization Problem
+10.1007/3-540-46648-7_19,Planarity-Preserving Clustering and Embedding for Large Planar Graphs
+10.1007/3-540-46648-7_16,Graph Embedding with Topological Cycle-Constraints
+10.1007/3-540-46648-7_17,Embedding Vertices at Points: Few Bends Suffice for Planar Graphs
+10.1007/3-540-46648-7_14,Graph Planarity and Related Topics
+10.1007/3-540-46648-7_15,Grid Drawings of Four-Connected Plane Graphs
+10.1007/3-540-63938-1_51,On three-dimensional layout of interconnection networks
+10.1007/3-540-63938-1_52,Orthogonal 3-D graph drawing
+10.1007/3-540-63938-1_50,Incremental orthogonal graph drawing in three dimensions
+10.1007/3-540-63938-1_59,Graph clustering I: Cycles of cliques
+10.1007/3-540-46648-7_43,Orthogonal and Straight-Line Drawings of Graphs with Succinct Representations
+10.1007/3-540-63938-1_57,Algorithms and area bounds for nonplanar orthogonal drawings
+10.1007/3-540-46648-7_44,Electronic Biochemical Pathways
+10.1007/3-540-63938-1_58,Drawing clustered graphs on an orthogonal grid
+10.1007/3-540-46648-7_41,Graph-Drawing Contest Report
+10.1007/3-540-63938-1_55,Interactive orthogonal graph drawing: Algorithms and bounds
+10.1007/3-540-46648-7_42,Hunting Down Graph B
+10.1007/3-540-63938-1_56,Embedding a graph in the grid of a surface with the minimum number of bends is NP-hard
+10.1007/3-540-63938-1_53,Finding the best viewpoints for three-dimensional graph drawings
+10.1007/3-540-46648-7_40,Latour 〞 A Tree Visualisation System
+10.1007/3-540-63938-1_54,A linear algorithm for optimal orthogonal drawings of triconnected cubic plane graphs
+10.1007/3-540-46648-7_34,Visibility Representations of Complete Graphs
+10.1007/3-540-63938-1_48,Bipartite crossing numbers of meshes and hypercubes
+10.1007/3-540-46648-7_35,Triangle-Free Planar Graphs as Segments Intersection Graphs
+10.1007/3-540-63938-1_49,Three-dimensional grid drawings of graphs
+10.1007/3-540-46648-7_32,Multi-dimensional Orthogonal Graph Drawing with Small Boxes
+10.1007/3-540-63938-1_46,A polyhedral approach to the multi-layer crossing minimization problem
+10.1007/3-540-46648-7_33,Geometric Realization of Simplicial Complexes
+10.1007/3-540-63938-1_47,On embedding an outer-planar graph in a point set
+10.1007/3-540-46648-7_30,Isomorphic Subgraphs
+10.1007/3-540-46648-7_31,Orthogonal and Quasi-upward Drawings with Vertices of Prescribed Size
+10.1007/3-540-63938-1_45,Drawable and forbidden minimum weight triangulations
+10.1007/3-540-46648-7_38,Voronoi Drawings of Trees
+10.1007/3-540-46648-7_39,Infinite Trees and the Future
+10.1007/3-540-46648-7_36,A Force-Directed Algorithm that Preserves Edge Crossing Properties
+10.1007/3-540-46648-7_37,Rectangle of Influence Drawings of Graphs without Filled 3-Cycles
+10.1007/978-3-642-25878-7_1,Kozo Sugiyama 1945 - 2011
+10.1007/3-540-62495-3_43,Graph-Drawing contest report
+10.1007/978-3-642-25878-7_2,Confluent Hasse Diagrams
+10.1007/3-540-62495-3_44,Two algorithms for three dimensional orthogonal graph drawing
+10.1007/3-540-62495-3_45,2-Visibility drawings of planar graphs
+10.1007/3-540-62495-3_46,Upper bounds on the number of hidden nodes in Sugiyamas algorithm
+10.1007/978-3-642-25878-7_6,Orthogeodesic Point-Set Embedding of Trees
+10.1007/3-540-62495-3_40,Circular layout in the Graph Layout toolkit
+10.1007/978-3-642-25878-7_3,Planar Open Rectangle-of-Influence Drawings with Non-aligned Frames
+10.1007/3-540-62495-3_41,Multilevel visualization of clustered graphs
+10.1007/978-3-642-25878-7_4,Proportional Contact Representations of Planar Graphs
+10.1007/3-540-62495-3_42,Straight-line drawing algorithms for hierarchical graphs and clustered graphs
+10.1007/978-3-642-25878-7_9,Graph Visualization
+10.1007/978-3-642-25878-7_7,On Point-Sets That Support Planar Graphs
+10.1007/978-3-642-25878-7_8,Small Point Sets for Simply-Nested Planar Graphs
+10.1007/3-540-62495-3_47,Integration of declarative approaches (System Demonstration)
+10.1007/3-540-62495-3_48,GIOTTO3D: A system for visualizing hierarchical structures in 3D
+10.1007/3-540-62495-3_49,A new minimum cost flow algorithm with applications to graph drawing
+10.1007/3-540-62495-3_54,Wiring edge-disjoint layouts
+10.1007/3-540-62495-3_55,Proximity drawings of outerplanar graphs (extended abstract)
+10.1007/3-540-62495-3_56,Automatic visualization of two-dimensional cellular complexes
+10.1007/3-540-62495-3_57,An alternative method to crossing minimization on hierarchical graphs
+10.1007/3-540-62495-3_50,Constrained graph layout
+10.1007/3-540-62495-3_51,The graphlet system (system demonstration)
+10.1007/3-540-62495-3_52,On the Edge Label Placement problem
+10.1007/3-540-62495-3_53,Intersection graphs of noncrossing arc-connected sets in the plane
+10.1007/3-540-62495-3_58,A linear-time algorithm for four-partitioning four-connected planar graphs
+10.1007/3-540-62495-3_59,Graphs drawn with few crossings per edge
+10.1007/11618058_9,Small Area Drawings of Outerplanar Graphs
+10.1007/11618058_7,"Bar k-Visibility Graphs: Bounds on the Number of Edges, Chromatic Number, and Thickness"
+10.1007/11618058_8,Drawing K n in Three Dimensions with One Bend Per Edge
+10.1007/11618058_5,On Embedding a Cycle in a Plane Graph
+10.1007/11618058_6,On Rectilinear Duals for Vertex-Weighted Plane Graphs
+10.1007/11618058_3,Dynamic Spectral Layout of Small Worlds
+10.1007/11618058_4,Exact Crossing Minimization
+10.1007/11618058_1,Crossings and Permutations
+10.1007/11618058_2,Morphing Planar Graphs While Preserving Edge Directions
+10.1007/3-540-62495-3_33,Bipartite embeddings of trees in the plane
+10.1007/3-540-62495-3_34,Series-parallel planar ordered sets have pagenumber two
+10.1007/3-540-62495-3_35,On rectangle visibility graphs
+10.1007/3-540-62495-3_36,A graph drawing and translation service on the WWW
+10.1007/3-540-62495-3_37,"Drawing 2-, 3- and 4-colorable graphs in O(n2) volume"
+10.1007/3-540-62495-3_38,Optimizing area and aspect ratio in straight-line orthogonal tree drawings
+10.1007/3-540-62495-3_39,Drawing directed acyclic graphs: An experimental study
+10.1007/978-3-642-00219-9_27,Placing Text Boxes on Graphs
+10.1007/978-3-540-70904-6_6,Eigensolver Methods for Progressive Multidimensional Scaling of Large Data
+10.1007/978-3-642-00219-9_28,Removing Node Overlaps Using Multi-sphere Scheme
+10.1007/978-3-540-70904-6_5,SSDE: Fast Graph Drawing Using Sampled Spectral Distance Embedding
+10.1007/978-3-642-00219-9_25,On the Hardness of Orthogonal-Order Preserving Graph Drawing
+10.1007/978-3-540-70904-6_8,Schematisation of Tree Drawings
+10.1007/978-3-642-00219-9_26,Generalizing the Shift Method for Rectangular Shaped Vertices with Visibility Constraints
+10.1007/978-3-540-70904-6_7,Angle and Distance Constraints on Tree Drawings
+10.1007/978-3-642-00219-9_23,Embeddability Problems for Upward Planar Digraphs
+10.1007/978-3-642-00219-9_24,A Fully Dynamic Algorithm to Test the Upward Planarity of Single-Source Embedded Digraphs
+10.1007/978-3-540-70904-6_9,Trees with Convex Faces and Optimal Angles
+10.1007/978-3-642-00219-9_21,An Experimental Study on Distance-Based Graph Drawing
+10.1007/978-3-642-00219-9_22,Topology Preserving Constrained Graph Layout
+10.1007/978-3-642-18469-7_42,IBM ILOG Multi-platform Graph Layout Technology
+10.1007/978-3-642-00219-9_20,Efficient Node Overlap Removal Using a Proximity Stress Model
+10.1007/978-3-642-18469-7_41,GVSR: An On-Line Guide for Choosing a Graph Visualization Software
+10.1007/978-3-642-18469-7_40,Large Crossing Angles in Circular Layouts
+10.1007/978-3-642-18469-7_44,Graph Drawing Contest Report
+10.1007/978-3-642-18469-7_43,Comparative Visualization of User Flows in Voice Portals
+10.1007/978-3-642-36763-2_56,"More Graph Drawing in the Cloud: Data-Oblivious st-Numbering, Visibility Representations, and Orthogonal Drawing of Biconnected Planar Graphs"
+10.1007/978-3-642-36763-2_57,Theory and Practice of Graph Drawing
+10.1007/978-3-642-36763-2_54,The First Simple Symmetric 11-Venn Diagram
+10.1007/978-3-642-36763-2_55,On the Faithfulness of Graph Visualizations
+10.1007/978-3-642-36763-2_58,Graph Drawing Contest Report
+10.1007/978-3-642-36763-2_52,Weak Dominance Drawings for Directed Acyclic Graphs
+10.1007/978-3-642-36763-2_53,Planar Lombardi Drawings of Outerpaths
+10.1007/978-3-642-00219-9_18,Hamiltonian Alternating Paths on Bicolored Double-Chains
+10.1007/978-3-642-36763-2_50,On Sparse Maximal 2-Planar Graphs
+10.1007/978-3-642-00219-9_19,The Binary Stress Model for Graph Drawing
+10.1007/978-3-642-36763-2_51,Testing Planarity by Switching Trains
+10.1007/978-3-642-18469-7_39,Placing Edge Labels by Modifying an Orthogonal Graph Drawing
+10.1007/978-3-642-00219-9_17,"Graph Simultaneous Embedding Tool, GraphSET"
+10.1007/978-3-642-18469-7_38,Visualizing Differences between Two Large Graphs
+10.1007/978-3-540-70904-6_45,Graph-Drawing Contest Report
+10.1007/978-3-642-00219-9_14,Visual Analysis of One-to-Many Matched Graphs
+10.1007/978-3-642-18469-7_37,Automatic Generation of Route Sketches
+10.1007/978-3-540-70904-6_44,Fast Node Overlap Removal〞Correction
+10.1007/978-3-642-00219-9_15,Topological Morphing of Planar Graphs
+10.1007/978-3-642-18469-7_36,GraphML-Based Exploration and Evaluation of Efficient Parallelization Alternatives for Automation Firmware
+10.1007/978-3-540-70904-6_43,Smoother Transitions Between Breadth-First-Spanning-Tree-Based Drawings
+10.1007/978-3-540-77537-9_36,Visualizing Internet Evolution on the Autonomous Systems Level
+10.1007/978-3-642-00219-9_12,Computing Maximum C-Planar Subgraphs
+10.1007/978-3-540-70904-6_42,The Website for Graph Visualization Software citess (GVSR)
+10.1007/978-3-540-77537-9_37,Treemaps for Directed Acyclic Graphs
+10.1007/978-3-642-00219-9_13,Clustered Planarity: Embedded Clustered Graphs with Two-Component Clusters
+10.1007/978-3-540-70904-6_41,Partitions of Graphs into Trees
+10.1007/978-3-540-77537-9_38,Drawing Graphs with GLEE
+10.1007/978-3-642-00219-9_10,Rapid Multipole Graph Drawing on the GPU
+10.1007/978-3-540-70904-6_40,Schnyder Woods and Orthogonal Surfaces
+10.1007/978-3-540-77537-9_39,Graph Drawing Contest Report
+10.1007/978-3-642-00219-9_11,Clustered Planarity: Clusters with Few Outgoing Edges
+10.1007/978-3-642-18469-7_31,Confluent Drawing Algorithms Using Rectangular Dualization
+10.1007/978-3-642-18469-7_35,Convex Polygon Intersection Graphs
+10.1007/978-3-642-18469-7_34,The Quality Ratio of RAC Drawings and Planar Drawings of Planar Graphs
+10.1007/978-3-642-18469-7_33,Universal Pointsets for 2-Coloured Trees
+10.1007/978-3-642-18469-7_32,How to Draw a Tait-Colorable Graph
+10.1007/978-3-540-77537-9_29,Efficient C-Planarity Testing for Embedded Flat Clustered Graphs with Small Faces
+10.1007/978-3-642-00219-9_49,ILOG Elixir
+10.1007/978-3-642-18469-7_28,Complexity of Finding Non-Planar Rectilinear Drawings of Graphs
+10.1007/978-3-642-18469-7_27,Drawing Planar Graphs of Bounded Degree with Few Slopes
+10.1007/978-3-642-00219-9_47,Visual Specification of Layout
+10.1007/978-3-642-18469-7_26,Dot Product Representations of Planar Graphs
+10.1007/978-3-642-00219-9_48,Spine Crossing Minimization in Upward Topological Book Embeddings
+10.1007/978-3-642-18469-7_25,On Maximum Differential Graph Coloring
+10.1007/978-3-540-77537-9_25,Algorithms for Multi-criteria One-Sided Boundary Labeling
+10.1007/978-3-642-00219-9_45,A Robust Biclustering Method Based on Crossing Minimization in Bipartite Graphs
+10.1007/978-3-540-77537-9_26,Multi-circular Layout of Micro/Macro Graphs
+10.1007/978-3-642-00219-9_46,Visualizing the Results of Metabolic Pathway Queries
+10.1007/978-3-540-77537-9_27,Constrained Simultaneous and Near-Simultaneous Embeddings
+10.1007/978-3-642-00219-9_43,Policy-Aware Visualization of Internet Dynamics
+10.1007/978-3-540-77537-9_28,Simultaneous Geometric Graph Embeddings
+10.1007/978-3-642-00219-9_44,Enhancing Visualizations of Business Processes
+10.1007/978-3-642-18469-7_29,Point-Set Embeddings of Plane 3-Trees
+10.1007/978-3-642-00219-9_41,Dunnart: A Constraint-Based Network Diagram Authoring Tool
+10.1007/978-3-642-18469-7_20,Improved Lower Bounds on the Area Requirements of Series-Parallel Graphs
+10.1007/978-3-642-00219-9_42,Approximating the Crossing Number of Apex Graphs
+10.1007/978-3-642-00219-9_40,Minimum Segment Drawings of Series-Parallel Graphs with the Maximum Degree Three
+10.1007/978-3-642-18469-7_24,Triangle Contact Representations and Duality
+10.1007/978-3-642-18469-7_23,On Touching Triangle Graphs
+10.1007/978-3-642-18469-7_22,Optimal k-Level Planarization and Crossing Minimization
+10.1007/978-3-642-18469-7_21,A Computational Approach to Conway＊s Thrackle Conjecture
+10.1007/978-3-642-36763-2_34,"Canonical Ordering for Triangulations on the Cylinder, with Applications to Periodic Straight-Line Drawings"
+10.1007/978-3-642-36763-2_35,Planar Preprocessing for Spring Embedders
+10.1007/978-3-642-36763-2_32,Density Theorems for Intersection Graphs of t-Monotone Curves
+10.1007/978-3-642-36763-2_33,The Visible Perimeter of an Arrangement of Disks
+10.1007/978-3-642-36763-2_38,Drawing Clustered Graphs as Topographic Maps
+10.1007/978-3-642-36763-2_39,Visualizing Streaming Text Data with Dynamic Graphs and Maps
+10.1007/978-3-642-36763-2_36,StreamEB: Stream Edge Bundling.
+10.1007/978-3-642-36763-2_37,Force-Directed Graph Drawing Using Social Gravity and Scaling
+10.1007/978-3-540-77537-9_32,Colorability in Orthogonal Graph Drawing
+10.1007/978-3-540-77537-9_33,A Note on Minimum-Area Straight-Line Drawings of Planar Graphs
+10.1007/978-3-540-77537-9_34,Universal Sets of n Points for 1-Bend Drawings of Planar Graphs with n Vertices
+10.1007/978-3-540-77537-9_35,LunarVis 每 Analytic Visualizations of Large Graphs
+10.1007/978-3-642-36763-2_30,Testing Maximal 1-Planarity of Graphs with a Rotation System in Linear Time
+10.1007/978-3-642-36763-2_31,Tangles and Degenerate Tangles
+10.1007/978-3-540-77537-9_30,Clustered Planarity: Small Clusters in Eulerian Graphs
+10.1007/978-3-540-77537-9_31,Drawing Colored Graphs with Constrained Vertex Positions and Few Bends per Edge
+10.1007/978-3-540-77537-9_6,Crossing Numbers and Parameterized Complexity
+10.1007/978-3-540-77537-9_18,Cover Contact Graphs
+10.1007/978-3-642-00219-9_38,Non-convex Representations of Graphs
+10.1007/978-3-642-18469-7_17,Drawing Trees with Perfect Angular Resolution and Polynomial Area
+10.1007/978-3-540-77537-9_5,Improvement on the Decay of Crossing Numbers
+10.1007/978-3-540-77537-9_19,Matched Drawings of Planar Graphs
+10.1007/978-3-642-00219-9_39,Subdivision Drawings of Hypergraphs
+10.1007/978-3-642-18469-7_16,On Graphs Supported by Line Sets
+10.1007/978-3-540-77537-9_8,Cyclic Level Planarity Testing and Embedding
+10.1007/978-3-642-00219-9_36,Tree Drawings on the Hexagonal Grid
+10.1007/978-3-642-18469-7_15,Topology-Driven Force-Directed Algorithms
+10.1007/978-3-540-77537-9_7,Characterization of Unlabeled Level Planar Graphs
+10.1007/978-3-642-00219-9_37,Isometric Diamond Subgraphs
+10.1007/978-3-642-18469-7_14,Drawing Graphs on a Smartphone
+10.1007/978-3-540-77537-9_14,Point-Set Embedding of Trees with Edge Constraints
+10.1007/978-3-642-00219-9_34,Cyclic Leveling of Directed Graphs
+10.1007/978-3-540-77537-9_9,Practical Level Planarity Testing and Layout with Embedding Constraints
+10.1007/978-3-540-77537-9_15,Representation of Planar Hypergraphs by Contacts of Triangles
+10.1007/978-3-642-00219-9_35,Constrained Point-Set Embeddability of Planar Graphs
+10.1007/978-3-540-77537-9_16,The Complexity of Several Realizability Problems for Abstract Topological Graphs
+10.1007/978-3-642-00219-9_32,Drawing (Complete) Binary Tanglegrams
+10.1007/978-3-642-18469-7_19,Optimal 3D Angular Resolution for Low-Degree Graphs
+10.1007/978-3-540-77537-9_17,Efficient Extraction of Multiple Kuratowski Subdivisions
+10.1007/978-3-642-00219-9_33,Two Polynomial Time Algorithms for the Metro-line Crossing Minimization Problem
+10.1007/978-3-642-18469-7_18,Lombardi Drawings of Graphs
+10.1007/978-3-642-00219-9_30,Connected Rectilinear Graphs on Point Sets
+10.1007/978-3-642-00219-9_31,3-Regular Non 3-Edge-Colorable Graphs with Polyhedral Embeddings in Orientable Surfaces
+10.1007/978-3-319-03841-4_11,Straight Line Triangle Representations
+10.1007/978-3-319-03841-4_10,Recognizing Outer 1-Planar Graphs in Linear Time
+10.1007/978-3-540-77537-9_2,Large-Scale Graphics: Digital Nature and Laser Projection
+10.1007/978-3-642-18469-7_13,Crossing Minimization and Layouts of Directed Hypergraphs with Port Constraints
+10.1007/978-3-540-77537-9_1,Computing Symmetries of Combinatorial Objects
+10.1007/978-3-642-18469-7_12,Drawing Graphs in the Plane with a Prescribed Outer Face and Polynomial Area
+10.1007/978-3-540-77537-9_4,A Bipartite Strengthening of the Crossing Lemma
+10.1007/978-3-642-18469-7_11,Optimizing Regular Edge Labelings
+10.1007/978-3-540-77537-9_3,Crossing Number of Graphs with Rotation Systems
+10.1007/978-3-642-36763-2_45,Time-Space Maps from Triangulations
+10.1007/978-3-642-36763-2_46,Graph Drawing in TikZ
+10.1007/978-3-642-36763-2_43,"Clustering, Visualizing, and Navigating for Large Dynamic Graphs"
+10.1007/978-3-642-36763-2_44,DAGView: An Approach for Visualizing Large Graphs
+10.1007/978-3-642-36763-2_49,Visualizing Large Hierarchically Clustered Graphs with a Landscape Metaphor
+10.1007/978-3-642-36763-2_47,Optical Graph Recognition
+10.1007/978-3-642-36763-2_48,Interactive Random Graph Generation with Evolutionary Algorithms
+10.1007/978-3-540-77537-9_21,Minimizing the Area for Planar Straight-Line Grid Drawings
+10.1007/978-3-540-77537-9_22,On Planar Polyline Drawings
+10.1007/978-3-540-77537-9_23,Constrained Stress Majorization Using Diagonally Scaled Gradient Projection
+10.1007/978-3-540-77537-9_24,Line Crossing Minimization on Metro Maps
+10.1007/978-3-642-36763-2_41,Drawing Metro Maps Using B谷zier Curves
+10.1007/978-3-642-36763-2_42,Mental Map Preservation Helps User Orientation in Dynamic Graphs
+10.1007/978-3-642-00219-9_29,Minimal Obstructions for 1-Immersions and Hardness of 1-Planarity Testing
+10.1007/978-3-540-77537-9_20,Maximum Upward Planar Subgraphs of Embedded Planar Digraphs
+10.1007/978-3-642-36763-2_40,On the Usability of Lombardi Graph Drawings
+10.1007/3-540-46648-7_7,Level Planar Embedding in Linear Time
+10.1007/3-540-63938-1_73,InteractiveGiotto: An algorithm for interactive orthogonal graph drawing
+10.1007/3-540-46648-7_8,Higres 〞 Visualization System for Clustered Graphs and Graph Algorithms
+10.1007/3-540-63938-1_74,GRID: An interactive tool for computing orthogonal drawings with the minimum number of bends
+10.1007/3-540-46648-7_5,Fully Dynamic 3-Dimensional Orthogonal Graph Drawing
+10.1007/3-540-63938-1_71,Graph clustering using multiway ratio cut (Software demonstration)
+10.1007/3-540-46648-7_6,An E log E Line Crossing Algorithm for Levelled Graphs
+10.1007/3-540-63938-1_72,ArchE: A graph drawing system for archaeology
+10.1007/3-540-63938-1_70,3DCube: A tool for three dimensional graph drawing
+10.1007/3-540-46648-7_9,Partitioning Approach to Visualization of Large Graphs
+10.1007/3-540-63938-1_79,GraVis 〞 System demonstration
+10.1007/978-3-642-36763-2_18,Touching Triangle Representations for 3-Connected Planar Graphs
+10.1007/978-3-642-36763-2_19,Proportional Contact Representations of 4-Connected Planar Graphs
+10.1007/3-540-46648-7_3,Combining Graph Labeling and Compaction
+10.1007/3-540-63938-1_77,Online animated graph drawing for web navigation
+10.1007/3-540-46648-7_4,Almost Bend-Optimal Planar Orthogonal Drawings of Biconnected Degree-3 Planar Graphs in Quadratic Time
+10.1007/3-540-63938-1_78,Grappa: A graph package in java
+10.1007/3-540-46648-7_1,The Anatomy of a Geometric Algorithm
+10.1007/3-540-63938-1_75,Lexical navigation: Using incremental graph drawing for query refinement
+10.1007/3-540-46648-7_2,Turn-Regularity and Planar Orthogonal Drawings
+10.1007/3-540-63938-1_76,Design gallery browsers based on 2D and 3D graph drawing (Demo)
+10.1007/978-3-642-36763-2_12,Planar Lombardi Drawings for Subcubic Graphs
+10.1007/978-3-642-36763-2_13,Circle-Representations of Simple 4-Regular Planar Graphs
+10.1007/978-3-642-36763-2_10,Open Rectangle-of-Influence Drawings of Non-triangulated Planar Graphs
+10.1007/978-3-642-36763-2_11,The Approximate Rectangle of Influence Drawability Problem
+10.1007/978-3-642-36763-2_16,Planar Graphs as VPG-Graphs
+10.1007/978-3-642-36763-2_17,On Representing Graphs by Touching Cuboids
+10.1007/978-3-642-36763-2_14,Smooth Orthogonal Layouts
+10.1007/978-3-642-36763-2_15,Toward a Theory of Planarity: Hanani-Tutte and Planarity Variants
+10.1007/3-540-63938-1_62,Pitfalls of using PQ-trees in automatic graph drawing
+10.1007/3-540-63938-1_63,Graph drawing with no k pairwise crossing edges
+10.1007/3-540-63938-1_60,An algorithm for labeling edges of hierarchical drawings
+10.1007/3-540-63938-1_61,Elastic labels: The two-axis case
+10.1007/3-540-63938-1_68,Implementing a general-purpose edge router
+10.1007/978-3-642-36763-2_29,On the Density of Maximal 1-Planar Graphs
+10.1007/3-540-63938-1_69,The wobbly logic engine: Proving hardness of non-rigid geometric graph representation problems
+10.1007/3-540-63938-1_66,A bayesian paradigm for dynamic graph layout
+10.1007/3-540-63938-1_67,Which aesthetic has the greatest effect on human understanding?
+10.1007/3-540-63938-1_64,Area requirements for drawing hierarchically planar graphs
+10.1007/3-540-63938-1_65,A short proof of a Gauss problem
+10.1007/978-3-642-36763-2_23,Self-approaching Graphs
+10.1007/978-3-642-36763-2_24,Homotopic \mathcal{C}-Oriented Routing
+10.1007/978-3-642-36763-2_21,Column-Based Graph Layouts
+10.1007/978-3-642-36763-2_22,Upward Planarity Testing via SAT
+10.1007/978-3-642-36763-2_27,Covering Paths for Planar Point Sets
+10.1007/978-3-642-36763-2_28,Grid Drawings and the Chromatic Number
+10.1007/978-3-642-36763-2_25,Kinetic and Stationary Point-Set Embeddability for Plane Graphs
+10.1007/978-3-642-36763-2_26,Point-Set Embeddability of 2-Colored Trees
+10.1007/978-3-642-36763-2_20,Edge-Weighted Contact Representations of Planar Graphs
+10.1007/3-540-63938-1_84,The three-phase method: A unified approach to orthogonal graph drawing
+10.1007/3-540-63938-1_85,NicheWorks 〞 Interactive visualization of very large graphs
+10.1007/3-540-63938-1_82,Minimum-area h-v drawings of complete binary trees
+10.1007/3-540-63938-1_83,Packing trees into planar graphs
+10.1007/3-540-63938-1_80,Touching graphs of unit balls
+10.1007/3-540-63938-1_81,Discrete realizations of contact and intersection graphs (extended abstract)
+10.1007/3-540-63938-1_88,Graph-drawing contest report
+10.1007/3-540-63938-1_86,Extending the Sugiyama algorithm for drawing UML class diagrams: Towards automatic layout of object-oriented software diagrams
+10.1007/3-540-63938-1_87,Graph drawing and manipulation with LINK
+10.1007/978-3-540-24595-7_31,Fixed Parameter Algorithms for one-sided crossing minimization Revisited
+10.1007/978-3-540-24595-7_30,Intersection-Free Morphing of Planar Graphs
+10.1007/978-3-540-24595-7_35,Layout of Directed Hypergraphs with Orthogonal Hyperedges
+10.1007/978-3-540-24595-7_34,Convex Drawing for c-Planar Biconnected Clustered Graphs
+10.1007/978-3-540-24595-7_33,Characterizing Families of Cuts That Can Be Represented by Axis-Parallel Rectangles
+10.1007/978-3-540-24595-7_32,Experiments with the Fixed-Parameter Approach for Two-Layer Planarization
+10.1007/978-3-540-24595-7_39,Straight-Line Drawings of 2-Outerplanar Graphs on Two Curves
+10.1007/978-3-540-24595-7_38,An Improved Approximation to the One-Sided Bilayer Drawing
+10.1007/978-3-540-24595-7_37,Radial Level Planarity Testing and Embedding in Linear Time
+10.1007/978-3-540-24595-7_36,No-Bend Orthogonal Drawings of Subdivisions of Planar Triconnected Cubic Graphs
+10.1007/978-3-540-24595-7_20,Track Drawings of Graphs with Constant Queue Number
+10.1007/978-3-540-24595-7_24,Graph Embedding with Minimum Depth and Maximum External Face
+10.1007/978-3-540-24595-7_23,Nearly Optimal Three Dimensional Layout of Hypercube Networks
+10.1007/978-3-540-24595-7_22,Drawing Series-Parallel Graphs on Restricted Integer 3D Grids
+10.1007/978-3-540-24595-7_21,3D Visibility Representations of Complete Graphs
+10.1007/978-3-540-24595-7_28,GraphEx: An Improved Graph Translation Service
+10.1007/978-3-540-24595-7_27,BGPlay: A System for Visualizing the Interdomain Routing Evolution
+10.1007/978-3-540-24595-7_26,Planar Embeddings of Graphs with Specified Edge Lengths
+10.1007/978-3-540-24595-7_25,More Efficient Generation of Plane Triangulations
+10.1007/978-3-540-24595-7_29,"A Constrained, Force-Directed Layout Algorithm for Biological Pathways"
+10.1007/11618058_11,How to Embed a Path onto Two Sets of Points
+10.1007/3-540-44541-2_7,On Polar Visibility Representations of Graphs
+10.1007/11618058_10,Volume Requirements of 3D Upward Drawings
+10.1007/3-540-44541-2_6,GraphXML 〞 An XML-Based Graph Description Format
+10.1007/3-540-44541-2_5,An Experimental Comparison of Orthogonal Compaction Algorithms
+10.1007/3-540-44541-2_4,"Interactive Partitioning System Demonstration, Short"
+10.1007/978-3-540-24595-7_53,Engineering and Visualizing Algorithms
+10.1007/3-540-44541-2_3,A User Study in Similarity Measures for Graph Drawing
+10.1007/978-3-540-24595-7_52,Graph Drawing Contest Report
+10.1007/3-540-44541-2_2,User Pcites of Graph Layout Aesthetics: A UML Study
+10.1007/978-3-540-24595-7_51,Visual Data Mining with ILOG Discovery
+10.1007/3-540-44541-2_1,The Visual Representation of Information Structures
+10.1007/978-3-540-24595-7_50,The Puzzle Layout Problem
+10.1007/978-3-540-24595-7_55,Selected Open Problems in Graph Drawing
+10.1007/978-3-540-24595-7_54,"Report on the Invited Lecture by Pat Hanrahan, Titled ※On Being in the Right Space§"
+10.1007/11618058_19,Two Trees Which Are Self每intersecting When Drawn Simultaneously
+10.1007/11618058_18,A Hybrid Model for Drawing Dynamic and Evolving Graphs
+10.1007/11618058_17,"Transversal Structures on Triangulations, with Application to Straight-Line Drawing"
+10.1007/11618058_16,Delta-Confluent Drawings
+10.1007/11618058_15,Fast Node Overlap Removal
+10.1007/11618058_14,Stress Majorization with Orthogonal Ordering Constraints
+10.1007/11618058_13,Graph Treewidth and Geometric Thickness Parameters
+10.1007/11618058_12,Upward Spirality and Upward Planarity Testing
+10.1007/11618058_22,An Experimental Comparison of Fast Algorithms for Drawing General Large Graphs
+10.1007/11618058_21,Non-planar Core Reduction of Graphs
+10.1007/11618058_20,C-Planarity of Extrovert Clustered Graphs
+10.1007/978-3-540-24595-7_42,Axis-by-Axis Stress Minimization
+10.1007/978-3-540-24595-7_41,Simultaneous Graph Drawing: Layout Algorithms and Visualization Schemes
+10.1007/978-3-540-24595-7_40,An Energy Model for Visual Graph Clustering
+10.1007/978-3-540-24595-7_46,Degree Navigator TM : The Journey of a Visualization Software
+10.1007/978-3-540-24595-7_45,Optimal Pants Decompositions and Shortest Homotopic Cycles on an Orientable Surface
+10.1007/978-3-540-24595-7_44,Drawing Area-Proportional Venn and Euler Diagrams
+10.1007/978-3-540-24595-7_43,Drawing Graphs with Nonuniform Nodes Using Potential Fields
+10.1007/978-3-540-24595-7_49,Web-Linkage Viewer: Drawing Links in the Web Based on a Site-Oriented Framework
+10.1007/978-3-540-24595-7_48,GLuskap: Visualization and Manipulation of Graph Drawings in 3-Dimensions
+10.1007/978-3-540-24595-7_47,HexGraph: Applying Graph Drawing Algorithms to the Game of Hex
+10.1007/3-540-58950-3_398,Map generalization as a graph drawing problem
+10.1007/3-540-58950-3_399,A geometrical heuristic for drawing concept lattices
+10.1007/3-540-58950-3_396,Encoding presentation emphasis algorithms for graphs
+10.1007/3-540-58950-3_397,A practical approach to static node positioning
+10.1007/3-540-58950-3_390,Recognizing rectangle of influence drawable graphs (extended abstract)
+10.1007/3-540-58950-3_391,A simple and unified method for drawing graphs: Magnetic-spring algorithm
+10.1007/11618058_29,A Mixed-Integer Program for Drawing High-Quality Metro Maps
+10.1007/11618058_28,Energy-Based Clustering of Graphs with Nonuniform Degrees
+10.1007/11618058_27,Convex Drawings of Plane Graphs of Minimum Outer Apices
+10.1007/3-540-58950-3_394,Drawing graphs by example efficiently: Trees and planar acyclic digraphs (extended abstract)
+10.1007/11618058_26,On Balloon Drawings of Rooted Trees
+10.1007/3-540-58950-3_395,Designing graph drawings by layout graph grammars
+10.1007/11618058_25,On Edges Crossing Few Other Edges in Simple Topological Complete Graphs
+10.1007/3-540-58950-3_392,Integration of declarative and algorithmic approaches for layout creation
+10.1007/11618058_24,Layout Effects on Sociogram Perception
+10.1007/3-540-44541-2_9,Labeling Points with Rectangles of Various Shapes
+10.1007/3-540-58950-3_393,A fast adaptive layout algorithm for undirected graphs (extended abstract and system demonstration)
+10.1007/11618058_23,Hierarchical Layouts of Directed Graphs in Three Dimensions
+10.1007/3-540-44541-2_8,A Linear Time Implementation of SPQR-Trees
+10.1007/978-3-642-00219-9_7,Unimaximal Sequences of Pairs in Rectangle Visibility Drawing
+10.1007/978-3-540-70904-6_13,Drawing Cubic Graphs with at Most Five Slopes
+10.1007/978-3-642-00219-9_8,Visibility Representations of Four-Connected Plane Graphs with Near Optimal Heights
+10.1007/978-3-540-70904-6_12,Embedding Graphs Simultaneously with Fixed Edges
+10.1007/978-3-642-00219-9_5,Crossing and Weighted Crossing Number of Near-Planar Graphs
+10.1007/978-3-540-70904-6_11,Simultaneous Graph Embedding with Bends and Circular Arcs
+10.1007/978-3-642-00219-9_6,Cubic Graphs Have Bounded Slope Parameter
+10.1007/978-3-540-70904-6_10,Three-Dimensional Drawings of Bounded Degree Trees
+10.1007/978-3-642-00219-9_3,Succinct Greedy Graph Drawing in the Hyperbolic Plane
+10.1007/978-3-642-00219-9_4,An Algorithm to Construct Greedy Drawings of Triangulations
+10.1007/978-3-642-00219-9_1,"Networks in Biology 每 From Identification, Analysis to Interpretation"
+10.1007/978-3-642-00219-9_2,Graph Drawing for Security Visualization
+10.1007/3-540-36151-0_3,"Graphs, They Are Changing"
+10.1007/978-3-319-03841-4_20,"Simultaneous Embedding: Edge Orderings, Relative Positions, Cutvertices"
+10.1007/3-540-36151-0_2,Maintaining the Mental Map for Circular Drawings
+10.1007/3-540-36151-0_5,Path-Width and Three-Dimensional Straight-Line Grid Drawings of Graphs
+10.1007/978-3-319-03841-4_22,Many-to-One Boundary Labeling with Backbones
+10.1007/978-3-540-70904-6_19,How Important Is the ※Mental Map§? 每 An Empirical Investigation of a Dynamic Graph Layout Algorithm
+10.1007/3-540-36151-0_4,Drawing Graphs on Two and Three Lines
+10.1007/978-3-319-03841-4_21,Sketched Graph Drawing: A Lesson in Empirical Studies
+10.1007/978-3-540-70904-6_18,On the Decay of Crossing Numbers
+10.1007/3-540-36151-0_7,Computing Labeled Orthogonal Drawings
+10.1007/978-3-540-70904-6_17,On the Crossing Number of Almost Planar Graphs
+10.1007/3-540-36151-0_6,Drawing Outer-Planar Graphs in O(n log n )Area
+10.1007/978-3-540-70904-6_16,Planar Decompositions and the Crossing Number of Graphs with an Excluded Minor
+10.1007/3-540-36151-0_9,A Group-Theoretic Method for Drawing Graphs Symmetrically
+10.1007/978-3-540-70904-6_15,Open Rectangle-of-Influence Drawings of Inner Triangulated Plane Graphs
+10.1007/3-540-36151-0_8,Computing and Drawing Isomorphic Subgraphs
+10.1007/978-3-540-70904-6_14,Planarity Testing and Optimal Edge Insertion with Embedding Constraints
+10.1007/978-3-319-03841-4_16,A Duality Transform for Constructing Small Grid Embeddings of 3D Polytopes
+10.1007/978-3-319-03841-4_19,Superpatterns and Universal Point Sets
+10.1007/978-3-319-03841-4_18,Exploiting Air-Pressure to Map Floorplans on Point Sets
+10.1007/978-3-319-03841-4_13,On Balanced -Contact Representations
+10.1007/978-3-319-03841-4_12,Extending Partial Representations of Circle Graphs
+10.1007/3-540-36151-0_1,Sketch-Driven Orthogonal Graph Drawing
+10.1007/978-3-319-03841-4_15,Achieving Good Angular Resolution in 3D Arc Diagrams
+10.1007/978-3-319-03841-4_14,Strongly-Connected Outerplanar Graphs with Proper Touching Triangle Representations
+10.1007/978-3-540-77537-9_10,Minimum Level Nonplanar Patterns for Trees
+10.1007/978-3-540-77537-9_11,Straight-Line Orthogonal Drawings of Binary and Ternary Trees
+10.1007/978-3-540-77537-9_12,Polynomial Area Bounds for MST Embeddings of Trees
+10.1007/978-3-540-77537-9_13,Moving Vertices to Make Drawings Plane
+10.1007/978-3-642-00219-9_52,Graph Drawing Contest Report
+10.1007/978-3-319-03841-4_31,Strict Confluent Drawing
+10.1007/978-3-319-03841-4_30,Fixed Parameter Tractability of Crossing Minimization of Almost-Trees
+10.1007/978-3-642-00219-9_50,DAGmap View
+10.1007/978-3-319-03841-4_33,Minimum Length Embedding of Planar Graphs at Fixed Vertex Locations
+10.1007/978-3-642-00219-9_51,Brain Network Analyzer
+10.1007/978-3-319-03841-4_28,Drawing Planar Graphs with a Prescribed Inner Face
+10.1007/978-3-319-03841-4_27,Exploring Complex Drawings via Edge Stratification
+10.1007/978-3-319-03841-4_29,"Metro-Line Crossing Minimization: Hardness, Approximations, and Tractable Cases"
+10.1007/978-3-319-03841-4_24,COAST: A Convex Optimization Approach to Stress-Based Embedding
+10.1007/978-3-319-03841-4_23,Streamed Graph Drawing and the File Maintenance Problem
+10.1007/978-3-319-03841-4_26,Drawing Non-Planar Graphs with Crossing-Free Subgraphs
+10.1007/978-3-319-03841-4_25,Colored Spanning Graphs for Set Visualization
+10.1007/978-3-642-00219-9_9,The Topology of Bendless Three-Dimensional Orthogonal Graph Drawing
+10.1007/978-3-540-70904-6_35,Characterization of Unlabeled Level Planar Trees
+10.1007/978-3-540-70904-6_34,Radial Drawings of Graphs: Geometric Constraints and Trade-Offs
+10.1007/978-3-540-70904-6_33,A New Approximation Algorithm for Bend Minimization in the Kandinsky Model
+10.1007/978-3-540-70904-6_32,Thickness of Bar 1-Visibility Graphs
+10.1007/978-3-540-70904-6_31,k-Colored Point-Set Embeddability of Outerplanar Graphs
+10.1007/978-3-540-70904-6_30,Morphing Planar Graphs in Spherical Space
+10.1007/3-540-44541-2_19,"FADE: Graph Drawing, Clustering, and Visual Abstraction"
+10.1007/978-3-319-03841-4_42,Drawing Permutations with Few Corners
+10.1007/978-3-319-03841-4_41,Untangling Two Systems of Noncrossing Curves
+10.1007/978-3-319-03841-4_44,Graph Drawing Contest Report
+10.1007/978-3-319-03841-4_43,Dynamic Traceroute Visualization at Multiple Abstraction Levels
+10.1007/978-3-540-70904-6_39,Biclique Edge Cover Graphs and Confluent Drawings
+10.1007/978-3-540-70904-6_38,Controllable and Progressive Edge Clustering for Large Networks
+10.1007/978-3-319-03841-4_40,"Using ILP/SAT to Determine Pathwidth, Visibility Representations, and other Grid-Based Graph Drawings"
+10.1007/978-3-540-70904-6_37,Improved Circular Layouts
+10.1007/978-3-540-70904-6_36,Drawing Bipartite Graphs on Two Curves
+10.1007/3-540-44541-2_22,A Fast Layout Algorithm for k-Level Graphs
+10.1007/978-3-319-03841-4_39,Incremental Grid-Like Layout Using Soft and Hard Constraints
+10.1007/3-540-44541-2_23,Graph Layout for Displaying Data Structures
+10.1007/978-3-319-03841-4_38,"Drawing Arrangement Graphs in Small Grids, or How to Play Planarity"
+10.1007/3-540-44541-2_24,k-Layer Straightline Crossing Minimization by Speeding Up Sifting
+10.1007/3-540-44541-2_25,Lower Bounds for the Number of Bends in Three-Dimensional Orthogonal Graph Drawings
+10.1007/3-540-44541-2_26,Orthogonal Drawings of Cycles in 3D Space
+10.1007/978-3-319-03841-4_35,On Orthogonally Convex Drawings of Plane Graphs
+10.1007/3-540-44541-2_27,Three-Dimensional Orthogonal Graph Drawing with Optimal Volume
+10.1007/978-3-319-03841-4_34,Stub Bundling and Confluent Spirals for Geographic Networks
+10.1007/3-540-44541-2_28,A Linear-Time Algorithm for Bend-Optimal Orthogonal Drawings of Biconnected Cubic Plane Graphs
+10.1007/978-3-319-03841-4_37,Slanted Orthogonal Drawings
+10.1007/3-540-44541-2_29,Refinement of Three-Dimensional Orthogonal Graph Drawings
+10.1007/978-3-319-03841-4_36,Planar and Plane Slope Number of Partial 2-Trees
+10.1007/3-540-44541-2_20,A Multi-dimensional Approach to Force-Directed Layouts of Large Graphs
+10.1007/3-540-44541-2_21,GRIP: Graph dRawing with Intelligent Placement
+10.1007/978-3-540-70904-6_24,Visualizing Large and Clustered Networks
+10.1007/978-3-540-70904-6_23,Straight-Line Drawing of Quadrangulations
+10.1007/978-3-540-70904-6_22,Parameterized st-Orientations of Graphs: Algorithms and Experiments
+10.1007/978-3-540-70904-6_21,Chordal Graphs as Intersection Graphs of Pseudosegments
+10.1007/978-3-540-70904-6_20,Computing Geometric Minimum-Dilation Graphs Is NP-Hard
+10.1007/978-3-540-70904-6_29,Choosing Colors for Geometric Graphs Via Color Space Embeddings
+10.1007/978-3-540-70904-6_28,Upright-Quad Drawing of st-Planar Learning Spaces
+10.1007/978-3-540-70904-6_27,Minimizing Intra-edge Crossings in Wiring Diagrams and Public Transportation Maps
+10.1007/978-3-540-70904-6_26,Path Simplification for Metro Map Layout
+10.1007/978-3-540-70904-6_25,Partitioned Drawings
+10.1007/3-540-44541-2_34,An Algorithm for Finding Three Dimensional Symmetry in Trees
+10.1007/3-540-44541-2_35,On Maximum Symmetric Subgraphs
+10.1007/3-540-44541-2_36,Clan-Based Incremental Drawing
+10.1007/3-540-44541-2_37,The Marey Graph Animation Tool Demo
+10.1007/3-540-44541-2_38,Graph Data Format Workshop Report
+10.1007/3-540-44541-2_39,Graph-Drawing Contest Report
+10.1007/978-3-540-70904-6_2,The Algorithmic Beauty of Digital Nature
+10.1007/3-540-44541-2_30,肋-Searchlight Obedient Graph Drawings
+10.1007/978-3-540-70904-6_1,The Number of Triangulations on Planar Point Sets
+10.1007/3-540-44541-2_31,Unavoidable Configurations in Complete Topological Graphs
+10.1007/978-3-540-70904-6_4,Multipole-Based Force Approximation Revisited 每 A Simple but Fast Implementation Using a Dynamized Enclosing-Circle-Enhanced k-d-Tree
+10.1007/3-540-44541-2_32,Minimum Weight Drawings of Maximal Triangulations
+10.1007/978-3-540-70904-6_3,Integrating Edge Routing into Force-Directed Layout
+10.1007/978-3-540-31843-9_52,Gravisto: Graph Visualization Toolkit
+10.1007/978-3-540-31843-9_53,DNA Secondary Structures for Probe Design
+10.1007/978-3-540-31843-9_50,The Metro Map Layout Problem
+10.1007/978-3-540-31843-9_51,An Interactive Multi-user System for Simultaneous Graph Drawing
+10.1007/978-3-540-31843-9_56,Graph-Drawing Contest Report
+10.1007/978-3-540-31843-9_57,"Fast Algorithms for Hard Graph Problems: Bidimensionality, Minors, and Local Treewidth"
+10.1007/978-3-540-31843-9_54,Open Problems Wiki
+10.1007/978-3-540-31843-9_55,Visualization and ILOG CPLEX
+10.1007/978-3-540-31843-9_49,Visualisation of Large and Complex Networks Using PolyPlane
+10.1007/978-3-540-31843-9_47,Graphael: A System for Generalized Force-Directed Layouts
+10.1007/978-3-540-31843-9_48,QUOGGLES: Query On Graphs 每 A Graphical Largely Extensible System
+10.1007/978-3-540-31843-9_30,Building Blocks of Upward Planar Digraphs
+10.1007/978-3-662-45803-7_2,"Picking Planar Edges. or, Drawing a Graph with a Planar Subgraph"
+10.1007/978-3-540-31843-9_31,A Linear Time Algorithm for Constructing Maximally Symmetric Straight-Line Drawings of Planar Graphs
+10.1007/978-3-662-45803-7_1,Planar Induced Subgraphs of Sparse Graphs
+10.1007/978-3-662-45803-7_4,Drawing Simultaneously Embedded Graphs with Few Bends
+10.1007/978-3-662-45803-7_3,Drawing Partially Embedded and Simultaneously Planar Graphs
+10.1007/978-3-540-31843-9_34,Long Alternating Paths in Bicolored Point Sets
+10.1007/978-3-540-31843-9_35,Intersection Reverse Sequences and Geometric Applications
+10.1007/978-3-540-31843-9_32,Train Tracks and Confluent Drawings
+10.1007/978-3-540-31843-9_33,The Three Dimensional Logic Engine
+10.1007/978-3-540-24595-7_2,An Experimental Study of Crossing Minimization Heuristics
+10.1007/978-3-540-24595-7_1,Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way
+10.1007/978-3-662-45803-7_9,Untangling Hairballs
+10.1007/978-3-540-24595-7_4,Bounds and Methods for k-Planar Crossing Numbers
+10.1007/978-3-540-24595-7_3,Stop Minding Your P＊s and Q＊s: Implementing a Fast and Simple DFS-Based Planarity Testing and Embedding Algorithm
+10.1007/978-3-540-24595-7_6,Two Results on Intersection Graphs of Polygons
+10.1007/978-3-662-45803-7_6,Simultaneous Embeddability of Two Partitions
+10.1007/978-3-540-24595-7_5,How Many Ways Can One Draw a Graph?
+10.1007/978-3-662-45803-7_5,Planar and Quasi Planar Simultaneous Geometric Embedding
+10.1007/978-3-540-24595-7_8,Noncrossing Hamiltonian Paths in Geometric Graphs
+10.1007/978-3-662-45803-7_8,A Coloring Algorithm for Disambiguating Graph and Map Drawings
+10.1007/978-3-540-24595-7_7,Stretching of Jordan Arc Contact Systems
+10.1007/978-3-662-45803-7_7,Luatodonotes: Boundary Labeling for Annotations in Texts
+10.1007/978-3-540-24595-7_9,GraphAEL: Graph Animations with Evolving Layouts
+10.1007/978-3-540-31843-9_27,Hamiltonian-with-Handles Graphs and the k-Spine Drawability Problem
+10.1007/978-3-540-31843-9_28,Distributed Graph Layout for Sensor Networks
+10.1007/978-3-540-31843-9_25,Graph Drawing by Stress Majorization
+10.1007/978-3-540-31843-9_26,Computing Radial Drawings on the Minimum Number of Circles
+10.1007/978-3-540-31843-9_29,Drawing Large Graphs with a Potential-Field-Based Multilevel Algorithm
+10.1007/978-3-540-31843-9_41,Visual Navigation of Compound Graphs
+10.1007/978-3-540-31843-9_42,Layout Volumes of the Hypercube
+10.1007/978-3-540-31843-9_40,No-Three-in-Line-in-3D
+10.1007/978-3-540-31843-9_45,A Compound Graph Layout Algorithm for Biological Pathways
+10.1007/978-3-540-31843-9_46,Curvilinear Graph Drawing Using the Force-Directed Method
+10.1007/978-3-540-31843-9_43,New Theoretical Bounds of Visibility Representation of Plane Graphs
+10.1007/978-3-540-31843-9_44,Visualizing Large Graphs with Compound-Fisheye Views and Treemaps
+10.1007/978-3-642-18469-7_2,Monotone Drawings of Graphs
+10.1007/978-3-642-18469-7_1,On the Size of Graphs That Admit Polyline Drawings with Few Bends and Crossing Angles
+10.1007/978-3-642-18469-7_4,On a Tree and a Path with No Geometric Simultaneous Embedding
+10.1007/978-3-642-18469-7_3,Upward Geometric Graph Embeddings into Point Sets
+10.1007/978-3-642-18469-7_6,Maximizing the Total Resolution of Graphs
+10.1007/978-3-642-18469-7_5,Difference Map Readability for Dynamic Graphs
+10.1007/978-3-642-18469-7_8,An Experimental Evaluation of Multilevel Layout Methods
+10.1007/978-3-642-18469-7_7,Plane Drawings of Queue and Deque Graphs
+10.1007/978-3-642-18469-7_9,Orthogonal Graph Drawing with Flexibility Constraints
+10.1007/978-3-540-31843-9_38,3D Visualization of Semantic Metadata Models and Ontologies
+10.1007/978-3-540-31843-9_39,A Note on the Self-similarity of Some Orthogonal Drawings
+10.1007/978-3-540-31843-9_36,New Exact Results and Bounds for Bipartite Crossing Numbers of Meshes
+10.1007/978-3-540-31843-9_37,Drawing Pfaffian Graphs
+10.1007/11618058_33,Complexity Results for Three-Dimensional Orthogonal Graph Drawing
+10.1007/978-3-662-45803-7_39,Increasing-Chord Graphs On Point Sets
+10.1007/11618058_32,Applications of Parameterized st-Orientations in Graph Drawing Algorithms
+10.1007/978-3-662-45803-7_38,MapSets: Visualizing Embedded and Clustered Graphs
+10.1007/11618058_31,Drawing Graphs Using Modular Decomposition
+10.1007/978-3-662-45803-7_37,A New Perspective on Clustered Planarity as a Combinatorial Embedding Problem
+10.1007/11618058_30,Crossing Number of Toroidal Graphs
+10.1007/978-3-662-45803-7_36,Clustered Planarity Testing Revisited
+10.1007/3-540-45848-4_53,Industrial Plant Drawer
+10.1007/3-540-45848-4_52,AGD: A Library of Algorithms for Graph Drawing
+10.1007/3-540-45848-4_51,Planarity Testing of Graphs on Base of a Spring Model
+10.1007/3-540-45848-4_50,Knowledge Index Manager
+10.1007/3-540-45848-4_57,Graphviz〞 Open Source Graph Drawing Tools
+10.1007/3-540-45848-4_56,ViSta
+10.1007/3-540-45848-4_55,GLIDE
+10.1007/3-540-45848-4_54,Pajek〞 Analysis and Visualization of Large Networks
+10.1007/3-540-45848-4_59,GraphML Progress Report Structural Layer Proposal
+10.1007/3-540-45848-4_58,Exchanging Graphs with GXL
+10.1007/978-3-662-45803-7_42,Graph Drawing Contest Report
+10.1007/978-3-662-45803-7_41,On Monotone Drawings of Trees
+10.1007/11618058_39,Proper and Planar Drawings of Graphs on Three Layers
+10.1007/978-3-662-45803-7_40,On Self-Approaching and Increasing-Chord Drawings of 3-Connected Planar Graphs
+10.1007/11618058_38,"Parallel-Redrawing Mechanisms, Pseudo-Triangulations and Kinetic Planar Graphs"
+10.1007/11618058_37,No-bend Orthogonal Drawings of Series-Parallel Graphs
+10.1007/11618058_36,Minimum Depth Graph Embeddings and Quality of the Drawings: An Experimental Analysis
+10.1007/11618058_35,Odd Crossing Number Is Not Crossing Number
+10.1007/11618058_34,On Extending a Partial Straight-Line Drawing
+10.1007/11618058_44,Drawing Clustered Graphs in Three Dimensions
+10.1007/978-3-662-45803-7_28,Planar Octilinear Drawings with One Bend Per Edge
+10.1007/11618058_43,WhatsOnWeb: Using Graph Drawing to Search the Web
+10.1007/978-3-662-45803-7_27,Stress-Minimizing Orthogonal Layout of Data Flow Diagrams with Ports
+10.1007/11618058_42,GEOMI: GEOmetry for Maximum Insight
+10.1007/978-3-662-45803-7_26,Trade-Offs in Planar Polyline Drawings
+10.1007/11618058_41,An Application of Well-Orderly Trees in Graph Drawing
+10.1007/978-3-662-45803-7_25,Morphing Schnyder Drawings of Planar Triangulations
+10.1007/11618058_40,Incremental Connector Routing
+10.1007/978-3-662-45803-7_29,On the Complexity of HV-rectilinear Planarity Testing
+10.1007/3-540-45848-4_42,yFiles: Visualization and Automatic Layout of Graphs
+10.1007/3-540-45848-4_41,Drawing Database Schemas with DBdraw
+10.1007/3-540-45848-4_40,The Graph Drawing Server
+10.1007/3-540-45848-4_46,Caesar Automatic Layout of UML Class Diagrams
+10.1007/3-540-45848-4_45,JGraph〞 A Java Based System for Drawing Graphs and Running Graph Algorithms
+10.1007/3-540-45848-4_44,Graph Visualization API Library for Application Builders
+10.1007/3-540-45848-4_43,BioPath
+10.1007/3-540-45848-4_49,SugiBib
+10.1007/3-540-45848-4_48,Generating Schematic Cable Plans Using Springembedder Methods
+10.1007/3-540-45848-4_47,Visone Software for Visual Social Network Analysis
+10.1007/978-3-662-45803-7_31,Drawing Graphs within Restricted Area
+10.1007/978-3-662-45803-7_30,Embedding Four-Directional Paths on Convex Point Sets
+10.1007/11618058_49,MultiPlane: A New Framework for Drawing Graphs in Three Dimensions
+10.1007/11618058_48,SDE: Graph Drawing Using Spectral Distance Embedding
+10.1007/978-3-662-45803-7_35,Advances on Testing C-Planarity of Embedded Flat Clustered Graphs
+10.1007/11618058_47,A New Method for Efficiently Generating Planar Graph Visibility Representations
+10.1007/978-3-662-45803-7_34,Anchored Drawings of Planar Graphs
+10.1007/11618058_46,D-Dupe: An Interactive Tool for Entity Resolution in Social Networks
+10.1007/978-3-662-45803-7_33,Drawing Planar Graphs with Reduced Height
+10.1007/11618058_45,BLer: A Boundary Labeller for Technical Drawings
+10.1007/978-3-662-45803-7_32,Height-Preserving Transformations of Planar Graph Drawings
+10.1007/11618058_55,Minimum Cycle Bases and Surface Reconstruction
+10.1007/978-3-662-45803-7_17,On the Recognition of Fan-Planar and Maximal Outer-Fan-Planar Graphs
+10.1007/11618058_54,Graph-Drawing Contest Report
+10.1007/978-3-662-45803-7_16,Fan-Planar Graphs: Combinatorial Properties and Complexity Results
+10.1007/11618058_53,Network Analysis and Visualisation
+10.1007/978-3-662-45803-7_15,Drawing Outer 1-planar Graphs with Few Slopes
+10.1007/11618058_52,Mixed Upward Planarization 每 Fast and Robust
+10.1007/978-3-662-45803-7_14,Bitonic st-orderings of Biconnected Planar Graphs
+10.1007/11618058_51,On Straightening Low-Diameter Unit Trees
+10.1007/11618058_50,Visualizing Graphs as Trees: Plant a Seed and Watch it Grow
+10.1007/978-3-662-45803-7_19,A Crossing Lemma for the Pair-Crossing Number
+10.1007/978-3-662-45803-7_18,Crossing Minimization for 1-page and 2-page Drawings of Graphs with Bounded Treewidth
+10.1007/978-3-540-24595-7_13,A Framework for User-Grouped Circular Drawings
+10.1007/978-3-540-24595-7_12,Area-Efficient Drawings of Outerplanar Graphs
+10.1007/978-3-540-24595-7_11,GoVisual for CASE Tools Borland Together ControlCenter and Gentleware Poseidon 每 System Demonstration
+10.1007/978-3-540-24595-7_10,Visualizing Related Metabolic Pathways in Two and a Half Dimensions
+10.1007/978-3-540-24595-7_17,Barycentric Drawings of Periodic Graphs
+10.1007/978-3-540-24595-7_16,An Integer Programming Approach to Fuzzy Symmetry Detection
+10.1007/978-3-540-24595-7_15,A More Practical Algorithm for Drawing Binary Trees in Linear Area with Arbitrary Aspect Ratio
+10.1007/978-3-540-24595-7_14,Fixed-Location Circular-Arc Drawing of Planar Graphs
+10.1007/978-3-540-24595-7_19,Laying Out Iterated Line Digraphs Using Queues
+10.1007/978-3-540-24595-7_18,Three-Dimensional Grid Drawings with Sub-quadratic Volume
+10.1007/978-3-662-45803-7_20,Are Crossings Important for Drawing Large Graphs?
+10.1007/978-3-662-45803-7_24,Disjoint Edges in Topological Graphs and the Tangled-Thrackle Conjecture
+10.1007/978-3-662-45803-7_23,Flat Foldings of Plane Graphs with Prescribed Angles and Edge Lengths
+10.1007/978-3-662-45803-7_22,Column Planarity and Partial Simultaneous Geometric Embedding
+10.1007/11618058_56,Hierarchy Visualization: From Research to Practice
+10.1007/978-3-662-45803-7_21,The Importance of Being Proper
+10.1007/3-540-45848-4_60,Graph-Drawing Contest Report
+10.1007/978-3-662-45803-7_13,"The Galois Complexity of Graph Drawing: Why Numerical Solutions Are Ubiquitous for Force-Directed, Spectral, and Circle Packing Drawings"
+10.1007/978-3-662-45803-7_12,Unit Contact Representations of Grid Subgraphs with Regular Polytopes in 2D and 3D
+10.1007/978-3-662-45803-7_11,Balanced Circle Packings for Planar Graphs
+10.1007/978-3-662-45803-7_10,GION: Interactively Untangling Large Graphs on Wall-Sized Displays
+10.1007/978-3-319-03841-4_7,A Linear-Time Algorithm for Testing Outer-1-Planarity
+10.1007/978-3-319-03841-4_8,Straight-Line Grid Drawings of 3-Connected 1-Planar Graphs
+10.1007/978-3-319-03841-4_9,New Bounds on the Maximum Number of Edges in k-Quasi-Planar Graphs
+10.1007/978-3-642-36763-2_7,Progress on Partial Edge Drawings
+10.1007/978-3-642-36763-2_8,Implementing a Partitioned 2-Page Book Embedding Testing Algorithm
+10.1007/978-3-642-36763-2_5,Graph Drawing in the Cloud: Privately Visualizing Relational Data Using Small Working Storage
+10.1007/978-3-319-03841-4_1,On the Upward Planarity of Mixed Plane Graphs
+10.1007/978-3-642-36763-2_6,Graph Drawing by Classical Multidimensional Scaling: New Perspectives
+10.1007/978-3-319-03841-4_2,Upward Planarity Testing: A Computational Study
+10.1007/3-540-45848-4_13,Untangling a Polygon
+10.1007/978-3-642-36763-2_3,Counting Plane Graphs: Cross-Graph Charging Schemes
+10.1007/978-3-319-03841-4_3,Characterizing Planarity by the Splittable Deque
+10.1007/3-540-45848-4_12,Labeling Heuristics for Orthogonal Drawings
+10.1007/978-3-642-36763-2_4,Disconnectivity and Relative Positions in Simultaneous Embeddings
+10.1007/978-3-319-03841-4_4,Strip Planarity Testing
+10.1007/3-540-45848-4_11,Fast Compaction for Orthogonal Drawings with Vertices of Prescribed Size
+10.1007/978-3-642-36763-2_1,Flips
+10.1007/978-3-319-03841-4_5,Morphing Planar Graph Drawings Efficiently
+10.1007/3-540-45848-4_10,One Sided Crossing Minimization Is NP-Hard for Sparse Graphs
+10.1007/978-3-642-36763-2_2,"Interactive Network Exploration to Derive Insights: Filtering, Clustering, Grouping, and Simplification"
+10.1007/978-3-319-03841-4_6,Graph Drawing through the Lens of a Framework for Analyzing Visualization Methods
+10.1007/3-540-45848-4_2,How to Layer a Directed Acyclic Graph
+10.1007/3-540-45848-4_17,User Hints for Directed Graph Drawing
+10.1007/3-540-45848-4_1,A Fixed-Parameter Approach to Two-Layer Planarization
+10.1007/3-540-45848-4_16,Drawing Graphs Symmetrically in Three Dimensions
+10.1007/3-540-45848-4_4,Automated Visualization of Process Diagrams
+10.1007/3-540-45848-4_15,Detecting Symmetries by Branch und Cut
+10.1007/3-540-45848-4_3,Fast and Simple Horizontal Coordinate Assignment
+10.1007/3-540-45848-4_14,Drawing with Fat Edges
+10.1007/3-540-37623-2_9,Balanced Aspect Ratio Trees and Their Use for Drawing Very Large Graphs
+10.1007/3-540-37623-2_8,Geometric Thickness of Complete Graphs
+10.1007/3-540-45848-4_19,Online Hierarchical Graph Drawing
+10.1007/978-3-642-36763-2_9,Shrinking the Search Space for Clustered Planarity
+10.1007/3-540-37623-2_7,A Split und Push Approach to 3D Orthogonal Drawing
+10.1007/3-540-45848-4_18,Graph Drawing in Motion II
+10.1007/3-540-45848-4_9,Crossing-Critical Graphs and Path-Width
+10.1007/3-540-45848-4_6,An Algorithm for Finding Large Induced Planar Subgraphs
+10.1007/3-540-45848-4_5,Planarization of Clustered Graphs
+10.1007/3-540-45848-4_8,An Improved Lower Bound for Crossing Numbers
+10.1007/3-540-45848-4_7,A Characterization of DFS Cotree Critical Graphs
+10.1007/3-540-36151-0_42,Techniques for Interactive Graph Drawing
+10.1007/3-540-36151-0_43,Drawing Venn Diagrams
+10.1007/978-3-319-27261-0_51,Drawing Graphs Using Body Gestures
+10.1007/978-3-319-27261-0_50,Gestalt Principles in Graph Drawing
+10.1007/978-3-319-27261-0_52,Augmenting Planar Straight Line Graphs to 2-Edge-Connectivity
+10.1007/3-540-36151-0_39,Camera Position Reconstruction and Tight Direction Networks
+10.1007/3-540-45848-4_31,Orthogonal Drawings of Plane Graphs without Bends
+10.1007/3-540-36151-0_31,Some Applications of Orderly Spanning Trees in Graph Drawing
+10.1007/3-540-45848-4_30,Disconnected Graph Layout and the Polyomino Packing Approach
+10.1007/3-540-36151-0_32,Improving Walker＊s Algorithm to Run in Linear Time
+10.1007/3-540-36151-0_33,Semi-dynamic Orthogonal Drawings of Planar Graphs
+10.1007/3-540-36151-0_34,Graph Layout for Workflow Applications with ILOG JViews
+10.1007/3-540-45848-4_35,The ILOG JViews Graph Layout Module
+10.1007/3-540-36151-0_35,InterViewer: Dynamic Visualization of Protein-Protein Interactions
+10.1007/3-540-45848-4_34,Tulip
+10.1007/3-540-36151-0_36,Some Modifications of Sugiyama Approach
+10.1007/3-540-45848-4_33,On Polar Visibility Representations of Graphs
+10.1007/3-540-36151-0_37,A Framework for Complexity Management in Graph Visualization
+10.1007/3-540-45848-4_32,Polar Coordinate Drawing of Planar Graphs with Good Angular Resolution
+10.1007/3-540-36151-0_38,A Partitioned Approach to Protein Interaction Mapping
+10.1007/3-540-45848-4_39,CrocoCosmos
+10.1007/3-540-45848-4_38,Exploration and Visualization of Computer Networks: Polyphemus and Hermes
+10.1007/3-540-45848-4_37,WilmaScope〞 An Interactive 3D Graph Visualisation System
+10.1007/3-540-45848-4_36,WAVE
+10.1007/3-540-36151-0_40,Demonstration of a Preprocessor for the Spring Embedder
+10.1007/3-540-36151-0_41,Graph-Drawing Contest Report
+10.1007/3-540-36151-0_28,Geometric Graphs with No Self-intersecting Path of Length Three
+10.1007/3-540-36151-0_29,Two New Heuristics for Two-Sided Bipartite Graph Drawing
+10.1007/3-540-45848-4_20,Recognizing String Graphs Is Decidable
+10.1007/3-540-36151-0_20,Graph Drawing by High-Dimensional Embedding
+10.1007/3-540-36151-0_21,Advances in C-Planarity Testing of Clustered Graphs
+10.1007/3-540-36151-0_22,"HGV: A Library for Hierarchies, Graphs, and Views"
+10.1007/3-540-36151-0_23,Rectangular Drawings of Planar Graphs
+10.1007/3-540-45848-4_24,Orthogonal Drawings with Few Layers
+10.1007/3-540-36151-0_24,Extended Rectangular Drawings of Plane Graphs with Designated Corners
+10.1007/3-540-45848-4_23,Towards an Aesthetic Invariant for Graph Drawing
+10.1007/3-540-36151-0_25,RINGS: A Technique for Visualizing Large Hierarchies
+10.1007/3-540-45848-4_22,A Short Note on the History of Graph Drawing
+10.1007/3-540-36151-0_26,Applying Crossing Reduction Strategies to Layered Compound Graphs
+10.1007/3-540-45848-4_21,On Intersection Graphs of Segments with Prescribed Slopes
+10.1007/3-540-36151-0_27,Crossing Reduction by Windows Optimization
+10.1007/3-540-45848-4_28,Insight into Data through Visualization
+10.1007/3-540-45848-4_27,Low-Distortion Embeddings of Trees
+10.1007/3-540-45848-4_26,Straight-Line Drawings on Restricted Integer Grids in Two and Three Dimensions
+10.1007/3-540-45848-4_25,Bounded Degree Book Embeddings and Three-Dimensional Orthogonal Graph Drawing
+10.1007/3-540-45848-4_29,Floor-Planning via Orderly Spanning Trees
+10.1007/3-540-36151-0_30,Straight-Line Drawings of Binary Trees with Linear Area and Arbitrary Aspect Ratio
+10.1007/978-3-319-27261-0_29,Drawing Graphs with Vertices and Edges in Convex Position
+10.1007/978-3-319-27261-0_26,Simple Realizability of Complete Abstract Topological Graphs Simplified
+10.1007/978-3-319-27261-0_25,Recognizing and Drawing IC-Planar Graphs
+10.1007/978-3-319-27261-0_28,Representing Directed Trees as Straight Skeletons
+10.1007/978-3-319-27261-0_27,The Utility of Untangling
+10.1007/978-3-319-27261-0_22,Confluent Orthogonal Drawings of Syntax Diagrams
+10.1007/978-3-319-27261-0_21,Displaying User Behavior in the Collaborative Graph Visualization System OnGraX
+10.1007/978-3-319-27261-0_24,2-Layer Fan-Planarity: From Caterpillar to Stegosaurus
+10.1007/978-3-319-27261-0_23,Kojaph: Visual Definition and Exploration of Patterns in Graph Databases
+10.1007/978-3-319-27261-0_20,Combinatorial Properties of Triangle-Free Rectangle Arrangements and the Squarability Problem
+10.1007/978-3-319-27261-0_19,Intersection-Link Representations of Graphs
+10.1007/978-3-319-27261-0_18,On the Zarankiewicz Problem for Intersection Hypergraphs
+10.1007/978-3-319-27261-0_15,Rook-Drawing for Plane Graphs
+10.1007/978-3-319-27261-0_14,Simultaneous Embeddings with Few Bends and Crossings
+10.1007/978-3-319-27261-0_17,Maximizing the Degree of (Geometric) Thickness-t Regular Graphs
+10.1007/978-3-319-27261-0_16,On Minimizing Crossings in Storyline Visualizations
+10.1007/978-3-319-27261-0_11,The Book Embedding Problem from a SAT-Solving Perspective
+10.1007/978-3-319-27261-0_10,Drawing Planar Cubic 3-Connected Graphs with Few Segments: Algorithms and Experiments
+10.1007/978-3-319-27261-0_13,Small-Area Orthogonal Drawings of 3-Connected Graphs
+10.1007/978-3-319-27261-0_12,Size- and Port-Aware Horizontal Node Coordinate Assignment
+10.1007/978-3-319-27261-0_48,SVEN: An Alternative Storyline Framework for Dynamic Graph Visualization
+10.1007/978-3-319-27261-0_47,PED User Study
+10.1007/978-3-319-27261-0_49,Knuthian Drawings of Series-Parallel Flowcharts
+10.1007/978-3-319-27261-0_44,"Graduate Workshop Recent Trends in Graph Drawing: Curves, Graphs, and Intersections"
+10.1007/978-3-319-27261-0_43,Graph Drawing Contest Report
+10.1007/978-3-319-27261-0_46,On the Relationship Between Map Graphs and Clique Planar Graphs
+10.1007/978-3-319-27261-0_45,L-Visibility Drawings of IC-Planar Graphs
+10.1007/978-3-319-27261-0_40,A Tale of Two Communities: Assessing Homophily in Node-Link Diagrams
+10.1007/3-540-58950-3_400,Poster gallery report
+10.1007/978-3-319-27261-0_42,On the Readability of Boundary Labeling
+10.1007/978-3-319-27261-0_41,Shape-Based Quality Metrics for Large Graph Visualization
+10.1007/978-3-319-27261-0_37,Realization of Simply Connected Polygonal Linkages and Recognition of Unit Disk Contact Trees
+10.1007/978-3-319-27261-0_36,Recognizing Weighted Disk Contact Graphs
+10.1007/978-3-319-27261-0_39,Pixel and Voxel Representations of Graphs
+10.1007/978-3-319-27261-0_38,Towards Characterizing Graphs with a Sliceable Rectangular Dual
+10.1007/978-3-319-27261-0_33,On Embeddability of Buses in Point Sets
+10.1007/978-3-319-27261-0_32,Alternating Paths and Cycles of Minimum Length
+10.1007/978-3-319-27261-0_35,Linear-Size Universal Point Sets for One-Bend Drawings
+10.1007/978-3-319-27261-0_34,A Universal Point Set for 2-Outerplanar Graphs
+10.1007/978-3-319-27261-0_31,Vertical Visibility Among Parallel Polygons in Three Dimensions
+10.1007/978-3-319-27261-0_30,Drawing Graphs Using a Small Number of Obstacles
+10.1007/BFb0021789,The effect of graph layout on inference from social network data
+10.1007/BFb0021788,New lower bounds for orthogonal graph drawings
+10.1007/BFb0021785,Universal 3-Dimensional visibility representations for graphs
+10.1007/BFb0021784,Quasi-planar graphs have a linear number of edges
+10.1007/BFb0021787,Adocs: a drawing system for generic combinatorial structures
+10.1007/BFb0021786,KGB a customizable graph browser
+10.1007/978-3-642-25878-7_43,Drawing Graphs with Vertices at Specified Positions and Crossings at Large Angles
+10.1007/BFb0021792,An experimental comparison of force-directed and randomized graph drawing algorithms
+10.1007/978-3-642-25878-7_44,Viewport for Component Diagrams
+10.1007/BFb0021791,Optimal algorithms to embed trees in a point set
+10.1007/978-3-642-25878-7_41,Combining Problems on RAC Drawings and Simultaneous Graph Drawings
+10.1007/BFb0021794,Fast interactive 3-D graph visualization
+10.1007/978-3-642-25878-7_42,The Open Graph Archive: A Community-Driven Effort
+10.1007/BFb0021793,On the complexity of recognizing intersection and touching graphs of disks
+10.1007/978-3-642-25878-7_40,Upward Planarity Testing of Embedded Mixed Graphs
+10.1007/BFb0021790,Drawing nice projections of objects in space
+10.1007/978-3-642-11805-0_11,Upward Planarization Layout
+10.1007/978-3-642-11805-0_10,Characterization of Unlabeled Radial Level Planar Graphs
+10.1007/3-540-37623-2_47,Adding Constraints to an Algorithm for Orthogonal Graph Drawing
+10.1007/3-540-37623-2_48,On Computing and Drawing Maxmin-Height Covering Triangulation
+10.1007/3-540-37623-2_45,The Size of the Open Sphere of Influence Graph in L ﹢ Metric Spaces
+10.1007/3-540-37623-2_46,Maximum Weight Triangulation and Graph Drawing
+10.1007/BFb0021799,On a visibility representation of graphs
+10.1007/3-540-37623-2_40,Multidimensional Outlines 〞 Wordgraphs
+10.1007/978-3-642-25878-7_38,Upward Point Set Embeddability for Convex Point Sets Is in P
+10.1007/978-3-642-25878-7_39,Classification of Planar Upward Embedding
+10.1007/978-3-642-25878-7_36,Monotone Drawings of Graphs with Fixed Embedding
+10.1007/BFb0021796,CABRI-Graph: A tool for research and teaching in graph theory
+10.1007/3-540-37623-2_43,VGJ: Visualizing Graphs Through Java
+10.1007/978-3-642-25878-7_37,On the Page Number of Upward Planar Directed Acyclic Graphs
+10.1007/BFb0021795,GD-Workbench: A system for prototyping and testing graph drawing algorithms
+10.1007/3-540-37623-2_44,A Library of Algorithms for Graph Drawing
+10.1007/978-3-642-25878-7_34,Low Distortion Delaunay Embedding of Trees in Hyperbolic Plane
+10.1007/BFb0021798,Upward numbering testing for triconnected graphs
+10.1007/3-540-37623-2_41,VisA: A Tool for Visualizing and Animating Automata and Formal Languages
+10.1007/978-3-642-25878-7_35,Hardness of Approximate Compaction for Nonplanar Orthogonal Graph Drawings
+10.1007/BFb0021797,Graph folding: Extending detail and context viewing into a tool for subgraph comparisons
+10.1007/3-540-37623-2_42,Elastic Labels on the Perimeter of a Rectangle
+10.1007/978-3-642-11805-0_20,Removing Independently Even Crossings
+10.1007/978-3-642-11805-0_22,Orthogonal Connector Routing
+10.1007/978-3-642-11805-0_21,Manhattan-Geodesic Embedding of Planar Graphs
+10.1007/978-3-642-11805-0_17,Succinct Greedy Drawings Do Not Always Exist
+10.1007/978-3-642-11805-0_16,Leftist Canonical Ordering
+10.1007/978-3-642-11805-0_19,Algebraic Methods for Counting Euclidean Embeddings of Rigid Graphs
+10.1007/978-3-642-11805-0_18,Geometric Simultaneous Embeddings of a Graph and a Matching
+10.1007/978-3-642-11805-0_13,WiGis: A Framework for Scalable Web-Based Interactive Graph Visualizations
+10.1007/978-3-642-11805-0_12,More Flexible Radial Layout
+10.1007/978-3-642-11805-0_15,Fast Edge-Routing for Large Graphs
+10.1007/978-3-642-11805-0_14,Port Constraints in Hierarchical Layout of Data Flow Diagrams
+10.1007/978-3-642-25878-7_47,Graph Drawing Contest Report
+10.1007/978-3-642-25878-7_45,Shortest-Paths Preserving Metro Maps
+10.1007/978-3-642-25878-7_46,"Challenger, a New Way to Visualize Data"
+10.1007/3-540-37623-2_25,An Algorithm for Three-Dimensional Orthogonal Graph Drawing
+10.1007/3-540-37623-2_26,Graph Multidrawing: Finding Nice Drawings Without Defining Nice
+10.1007/3-540-37623-2_23,Refinement of Orthogonal Graph Drawings
+10.1007/3-540-37623-2_24,A Combinatorial Framework for Map Labeling
+10.1007/3-540-37623-2_29,A Fully Animated Interactive System for Clustering and Navigating Huge Graphs
+10.1007/3-540-37623-2_27,Edge Labeling in the Graph Layout Toolkit
+10.1007/3-540-37623-2_28,Improved Force-Directed Layouts
+10.1007/3-540-37623-2_21,Proximity Drawings: Three Dimensions Are Better than Two
+10.1007/3-540-37623-2_22,NP-Completeness of Some Tree-Clustering Problems
+10.1007/3-540-37623-2_20,Embedding Planar Graphs at Fixed Vertex Locations
+10.1007/3-540-37623-2_36,Planar Drawings of Origami Polyhedra
+10.1007/3-540-37623-2_37,Human Perception of Laid-Out Graphs
+10.1007/3-540-37623-2_34,Graph-Drawing Contest Report
+10.1007/3-540-37623-2_35,Implementation of an Efficient Constraint Solver for the Layout of Graphs in Delaunay
+10.1007/3-540-37623-2_38,Ptolomaeus:The Web Cartographer
+10.1007/3-540-37623-2_39,Flexible Graph Layout and Editing for Commercial Applications
+10.1007/3-540-37623-2_32,Visualization of Parallel Execution Graphs
+10.1007/3-540-37623-2_33,JIGGLE: Java Interactive Graph Layout Environment
+10.1007/3-540-37623-2_30,Drawing Large Graphs with H3Viewer and Site Manager
+10.1007/3-540-37623-2_31,Cooperation between Interactive Actions and Automatic Drawing in a Schematic Editor
+10.1007/3-540-36151-0_17,Compact Encodings of Planar Orthogonal Drawings
+10.1007/3-540-36151-0_18,Fractional Lengths and Crossing Numbers
+10.1007/3-540-36151-0_19,Drawing Directed Graphs Using One-Dimensional Optimization
+10.1007/3-540-36151-0_10,A Branch-and-Cut Approach to the Directed Acyclic Graph Layering Problem
+10.1007/3-540-36151-0_11,Geometric Systems of Disjoint Representatives
+10.1007/3-540-36151-0_12,An Efficient Fixed Parameter Tractable Algorithm for 1-Sided Crossing Minimization
+10.1007/3-540-36151-0_13,Simple and Efficient Bilayer Cross Counting
+10.1007/3-540-36151-0_14,Orthogonal 3D Shapes of Theta Graphs
+10.1007/3-540-36151-0_15,Separating Thickness from Geometric Thickness
+10.1007/3-540-36151-0_16,Book Embeddings and Point-Set Embeddings of Series-Parallel Digraphs
+10.1007/978-3-642-25878-7_10,Advances in the Planarization Method: Effective Multiple Edge Insertions
+10.1007/978-3-642-25878-7_11,A Quantitative Comparison of Stress-Minimization Approaches for Offline Dynamic Graph Drawing
+10.1007/3-540-37623-2_14,A Layout Adjustment Problem for Disjoint Rectangles Preserving Orthogonal Order
+10.1007/3-540-37623-2_15,Drawing Algorithms for Series-Parallel Digraphs in Two and Three Dimensions
+10.1007/3-540-37623-2_12,A Framework for Drawing Planar Graphs with Curves and Polylines
+10.1007/3-540-37623-2_13,Planar Polyline Drawings with Good Angular Resolution
+10.1007/3-540-37623-2_18,Crossing Number of Abstract Topological Graphs
+10.1007/3-540-37623-2_19,Self-Organizing Graphs 〞 A Neural Network Perspective of Graph Layout
+10.1007/3-540-37623-2_16,Approximation Algorithms for Finding Best Viewpoints
+10.1007/3-540-37623-2_17,Level Planarity Testing in Linear Time
+10.1007/3-540-37623-2_10,On Improving Orthogonal Drawings: The 4M-Algorithm
+10.1007/3-540-37623-2_11,Algorithmic Patterns for Orthogonal Graph Drawing
+10.1007/978-3-642-25878-7_21,"Visual Community Detection: An Evaluation of 2D, 3D Perspective and 3D Stereoscopic Displays"
+10.1007/978-3-642-25878-7_22,Evaluating Partially Drawn Links for Directed Graph Edges
+10.1007/978-3-642-25878-7_20,Optimizing a Radial Layout of Bipartite Graphs for a Tool Visualizing Security Alerts
+10.1007/978-3-642-25878-7_18,Generalizing Geometric Graphs
+10.1007/978-3-642-25878-7_19,How to Visualize the K-Root Name Server (Demo)
+10.1007/978-3-642-25878-7_16,Pinning Balloons with Perfect Angles and Optimal Area
+10.1007/978-3-642-25878-7_17,Approximate Proximity Drawings
+10.1007/978-3-642-25878-7_14,Edge Routing with Ordered Bundles
+10.1007/978-3-642-25878-7_15,Right Angle Crossing Graphs and 1-Planarity
+10.1007/978-3-642-25878-7_12,Accelerated Bend Minimization
+10.1007/978-3-642-25878-7_13,"TGI-EB: A New Framework for Edge Bundling Integrating Topology, Geometry and Importance"
+10.1007/978-3-642-25878-7_32,Every Graph Admits an Unambiguous Bold Drawing
+10.1007/978-3-642-25878-7_33,Adjacent Crossings Do Matter
+10.1007/978-3-642-25878-7_30,Planar and Poly-arc Lombardi Drawings
+10.1007/978-3-642-25878-7_31,Force-Directed Lombardi-Style Graph Drawing
+10.1007/3-540-37623-2_6,Upward Planarity Checking: ※Faces Are More than Polygons§
+10.1007/3-540-37623-2_5,Difference Metrics for Interactive Orthogonal Graph Drawing Algorithms
+10.1007/3-540-37623-2_4,Using Graph Layout to Visualize Train Interconnection Data
+10.1007/3-540-37623-2_3,Three Approaches to 3D-Orthogonal Box-Drawings
+10.1007/3-540-37623-2_2,Quasi-Upward Planarity
+10.1007/3-540-37623-2_1,Drawing of Two-Dimensional Irregular Meshes
+10.1007/978-3-642-25878-7_29,Triangulations with Circular Arcs
+10.1007/978-3-642-25878-7_27,Monotone Crossing Number
+10.1007/978-3-642-25878-7_28,Upper Bound Constructions for Untangling Planar Geometric Graphs
+10.1007/978-3-642-25878-7_25,Drawing Cubic Graphs with the Four Basic Slopes
+10.1007/978-3-642-25878-7_26,k-Quasi-Planar Graphs
+10.1007/978-3-642-25878-7_23,Realizing Planar Graphs as Convex Polytopes
+10.1007/978-3-642-25878-7_24,Overloaded Orthogonal Drawings
+10.1007/978-3-319-27261-0_7,On Degree Properties of Crossing-Critical Families of Graphs
+10.1007/978-3-319-27261-0_8,"Genus, Treewidth, and Local Crossing Number"
+10.1007/978-3-319-27261-0_5,Faster Force-Directed Graph Drawing with the Well-Separated Pair Decomposition
+10.1007/978-3-319-27261-0_6,The Degenerate Crossing Number and Higher-Genus Embeddings
+10.1007/978-3-319-27261-0_9,Hanani-Tutte for Radial Planarity
+10.1007/978-3-319-27261-0_3,Drawing Large Graphs by Multilevel Maxent-Stress Optimization
+10.1007/978-3-319-27261-0_4,A Million Edge Drawing for a Fistful of Dollars
+10.1007/978-3-319-27261-0_1,GraphMaps: Browsing Large Graphs as Interactive Maps
+10.1007/978-3-319-27261-0_2,An Incremental Layout Method for Visualizing Online Dynamic Graphs
+10.1007/978-3-540-31843-9_1,Reconfiguring Triangulations with Edge Flips and Point Moves
+10.1007/978-3-540-31843-9_2,Drawing Power Law Graphs
+10.1007/978-3-540-31843-9_3,Hexagonal Grid Drawings: Algorithms and Lower Bounds
+10.1007/978-3-540-31843-9_4,"Improved Bounds for the Number of (≒ k)-Sets, Convex Quadrilaterals, and the Rectilinear Crossing Number of K n"
+10.1007/978-3-540-31843-9_5,On the Realizable Weaving Patterns of Polynomial Curves in \mathbb R^3
+10.1007/978-3-540-31843-9_6,Drawing the AS Graph in 2.5 Dimensions
+10.1007/978-3-540-31843-9_7,Boundary Labeling: Models and Efficient Algorithms for Rectangular Maps
+10.1007/978-3-540-31843-9_8,Convex Drawings of 3-Connected Plane Graphs
+10.1007/978-3-540-31843-9_9,Partitions of Complete Geometric Graphs into Plane Trees
+10.1007/978-3-540-31843-9_12,Clustering Cycles into Cycles of Clusters
+10.1007/978-3-540-31843-9_13,Unit Bar-Visibility Layouts of Triangulated Polygons
+10.1007/978-3-540-31843-9_10,Additional PC-Tree Planarity Conditions
+10.1007/978-3-540-31843-9_11,GraphML Transformation
+10.1007/978-3-642-11805-0_46,DAGmaps and Dominance Relationships
+10.1007/978-3-642-11805-0_45,Visualization of Complex BPEL Models
+10.1007/978-3-642-11805-0_48,Graph Drawing Contest Report
+10.1007/978-3-642-11805-0_47,Scaffold Hunter 每 Interactive Exploration of Chemical Space
+10.1007/978-3-540-31843-9_20,Confluent Layered Drawings
+10.1007/978-3-540-31843-9_23,Contact and Intersection Representations
+10.1007/978-3-540-31843-9_24,Dynamic Graph Drawing of Sequences of Orthogonal and Hierarchical Graphs
+10.1007/978-3-540-31843-9_21,Simultaneous Embedding of Planar Graphs with Few Bends
+10.1007/978-3-540-31843-9_22,A Fast and Simple Heuristic for Constrained Two-Level Crossing Reduction
+10.1007/978-3-540-31843-9_16,Label Number Maximization in the Slider Model
+10.1007/978-3-540-31843-9_17,An Efficient Implementation of Sugiyama＊s Algorithm for Layered Graph Drawing
+10.1007/978-3-540-31843-9_14,Really Straight Graph Drawings
+10.1007/978-3-540-31843-9_15,Layouts of Graph Subdivisions
+10.1007/978-3-540-31843-9_19,Algorithms for Drawing Media
+10.1007/978-3-642-11805-0_31,3D Visibility Representations by Regular Polygons
+10.1007/978-3-642-11805-0_30,Drawing Planar 3-Trees with Given Face-Areas
+10.1007/978-3-642-11805-0_33,On Planar Supports for Hypergraphs
+10.1007/978-3-642-11805-0_32,Complexity of Some Geometric and Topological Problems
+10.1007/978-3-642-11805-0_28,Drawing Trees in a Streaming Model
+10.1007/978-3-642-11805-0_27,Small Drawings of Series-Parallel Graphs and Other Subclasses of Planar Graphs
+10.1007/978-3-642-11805-0_29,The Planar Slope Number of Planar Partial 3-Trees of Bounded Degree
+10.1007/978-3-642-11805-0_24,Semi-bipartite Graph Visualization for Gene Ontology Networks
+10.1007/978-3-642-11805-0_23,On Rectilinear Drawing of Graphs
+10.1007/978-3-642-11805-0_26,A Novel Grid-Based Visualization Approach for Metabolic Networks with Advanced Focus und Context View
+10.1007/978-3-642-11805-0_25,On Open Problems in Biological Network Visualization
+10.1007/978-3-642-11805-0_42,IBM ILOG Graph Layout for Eclipse
+10.1007/978-3-642-11805-0_41,4-Labelings and Grid Embeddings of Plane Quadrangulations
+10.1007/978-3-642-11805-0_44,Proving or Disproving Planar Straight-Line Embeddability onto Given Rectangles
+10.1007/978-3-642-11805-0_43,Layout Techniques Coupled with Web2.0-Based Business Process Modeling
+10.1007/978-3-642-11805-0_40,On 老-Constrained Upward Topological Book Embeddings
+10.1007/978-3-642-11805-0_39,Using High Dimensions to Compare Drawings of Graphs
+10.1007/978-3-642-11805-0_38,GMap: Drawing Graphs as Maps
+10.1007/978-3-642-11805-0_35,Drawing Directed Graphs Clockwise
+10.1007/978-3-642-11805-0_34,DAGmaps and 汍-Visibility Representations of DAGs
+10.1007/978-3-642-11805-0_37,Layout with Circular and Other Non-linear Constraints Using Procrustes Projection
+10.1007/978-3-642-11805-0_36,An Improved Algorithm for the Metro-line Crossing Minimization Problem
